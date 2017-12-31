@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22750" started-at="2017-12-31T14:22:21Z" finished-at="2017-12-31T14:22:44Z">
+    <groups>
+    </groups>
+    <test name="Bank Manger Login Test" duration-ms="305" started-at="2017-12-31T14:22:21Z" finished-at="2017-12-31T14:22:21Z">
+      <class name="com.hp.testcases.BankManagerLoginTest">
+        <test-method status="PASS" signature="bankManagerLoginTest()[pri:0, instance:com.hp.testcases.BankManagerLoginTest@4d5b6aac]" name="bankManagerLoginTest" duration-ms="283" started-at="2017-12-31T22:22:21Z" finished-at="2017-12-31T22:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankManagerLoginTest -->
+      </class> <!-- com.hp.testcases.BankManagerLoginTest -->
+    </test> <!-- Bank Manger Login Test -->
+    <test name="Add Customer Test" duration-ms="19410" started-at="2017-12-31T14:22:22Z" finished-at="2017-12-31T14:22:41Z">
+      <class name="com.hp.testcases.AddCustomerTest">
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hp.testcases.AddCustomerTest@32ee6fee]" name="addCustomerTest" duration-ms="5275" started-at="2017-12-31T22:22:22Z" data-provider="dp" finished-at="2017-12-31T22:22:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hp.testcases.AddCustomerTest@32ee6fee]" name="addCustomerTest" duration-ms="4828" started-at="2017-12-31T22:22:27Z" data-provider="dp" finished-at="2017-12-31T22:22:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hp.testcases.AddCustomerTest@32ee6fee]" name="addCustomerTest" duration-ms="4810" started-at="2017-12-31T22:22:32Z" data-provider="dp" finished-at="2017-12-31T22:22:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ishita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hp.testcases.AddCustomerTest@32ee6fee]" name="addCustomerTest" duration-ms="4474" started-at="2017-12-31T22:22:36Z" data-provider="dp" finished-at="2017-12-31T22:22:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sehgal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Customer added successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- com.hp.testcases.AddCustomerTest -->
+    </test> <!-- Add Customer Test -->
+    <test name="Open Account Test" duration-ms="3010" started-at="2017-12-31T14:22:41Z" finished-at="2017-12-31T14:22:44Z">
+      <class name="com.hp.testcases.OpenAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hp.testcases.OpenAccountTest@f736069]" name="setUp" is-config="true" duration-ms="8549" started-at="2017-12-31T22:22:13Z" finished-at="2017-12-31T22:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String)[pri:0, instance:com.hp.testcases.OpenAccountTest@f736069]" name="openAccountTest" duration-ms="3008" started-at="2017-12-31T22:22:41Z" data-provider="dp" finished-at="2017-12-31T22:22:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harry Potter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hp.testcases.OpenAccountTest@f736069]" name="tearDown" is-config="true" duration-ms="915" started-at="2017-12-31T22:22:44Z" finished-at="2017-12-31T22:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hp.testcases.OpenAccountTest -->
+    </test> <!-- Open Account Test -->
+  </suite> <!-- Suite -->
+</testng-results>
